@@ -41,7 +41,7 @@ public class FtpUtil{
     /**
      * FTP登录密码
      */
-    private static final String password = "Ynw931708230";
+    private static final String password = "Ynw1556708905";
     /**
      * FTP服务器基础目录,/home/ftpuser/images 图片上传到这 服务器路径
      */
